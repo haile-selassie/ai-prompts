@@ -6,7 +6,7 @@ You are going to loop through each topic in TOPIC_SET, recall everything you kno
 Your only output will be in the form of a python dictionary, with the keys being the topics and the values being a Boolean of your determination. You will NOT attempt to generate a script, and you will NOT give any comments or additions other than the python dictionary.
 
 Here is an example:
-*****EXAMPLE BEGIN*****
+\*\*\*\*\*EXAMPLE BEGIN\*\*\*\*\*
 TOPIC_SET= (military,terrorism,armed conflict,intelligence,Saddam Hussein,Metallica,home cooking)
 GIVEN_TEXT "Israel’s military has brought the war to the front gates of al-Shifa Hospital, Gaza’s biggest hospital complex, where thousands of injured and displaced people are trapped amid ferocious bombardment."
 ChatGPT output = "
@@ -20,7 +20,7 @@ ChatGPT output = "
 "home cooking": False
 }
 "
-*****EXAMPLE END*****
+\*\*\*\*\*EXAMPLE END\*\*\*\*\*
 TOPIC_SET = (topic1,topic2,yadda,yadda)
 GIVEN_TEXT = 
 
@@ -43,7 +43,7 @@ You will then combine all of these variables together into a single python file.
 
 Here is an example:
 
-*****EXAMPLE BEGIN*****
+\*\*\*\*\*EXAMPLE BEGIN\*\*\*\*\*
 User input:
 
 ENTITY_A_DATASET = {
@@ -95,7 +95,7 @@ Entity B Stylometry Report:
 GIVEN_TEXT_AUTHOR = "Entity B"
 ENTITY_A_IDENTITY = "Tech Enthusiast or Blogger"
 ENTITY_B_IDENTITY = "Politician"
-*****EXAMPLE END*****
+\*\*\*\*\*EXAMPLE END*****
 
 ENTITY_A_DATASET = {
 }
